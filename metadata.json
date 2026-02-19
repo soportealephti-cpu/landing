@@ -1,0 +1,7 @@
+{
+  "name": "Aleph SAC - Protección Radiológica Moderna",
+  "description": "Una plataforma interactiva y profesional para servicios de protección radiológica, calibración y seguridad industrial, con asistencia inteligente integrada.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
